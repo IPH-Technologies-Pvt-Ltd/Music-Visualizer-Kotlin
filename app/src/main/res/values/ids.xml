@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="song_visualizer" type="id" />
+    <item name="visualizer" type="id" />
+    <item name="logoImg" type="id" />
+</resources>
