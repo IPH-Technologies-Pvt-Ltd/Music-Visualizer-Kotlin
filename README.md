@@ -1,10 +1,13 @@
 # MusicApp-Kotlin
 Created a music application using Kotlin where it will create a visualizer according to the pitch of the voice of the sound/music
+The primary goal of this music application is to create a captivating visual representation of sound, allowing users to visually perceive the changes in pitch and intensity. The dynamic visualizer enhances the overall listening experience, making it not only auditory but also visually engaging.
+
 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
+- Android Studio Code: [Download Android Studio](https://developer.android.com/studio)
 - Kotlin Compiler: [Download Kotlin](https://kotlinlang.org/docs/getting-started.html)
 - Java Development Kit (JDK): [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 
